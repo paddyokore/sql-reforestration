@@ -11,4 +11,4 @@ What does the competitive landscape look like?
 What is the financial opportunity in the movie industry
 Which genres are profitable?
 
-![Alt text]](C:/Users/ADMIN/OneDrive - Kantar/XXXXXXXX/POV1/Data Science/Moringa/2_Phase_1/11_Project/phase1-project/box_office_market_exploration_report/Slide1.jpg
+![Slide4](https://user-images.githubusercontent.com/70230125/224577223-16ad9177-e5c1-4bcf-a31d-b8ba1e19b8bc.JPG)
