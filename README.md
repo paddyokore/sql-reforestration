@@ -1,5 +1,5 @@
 Data located in the data folder and instructions to set up database
-
+```SQL
 -- Create the land_area table
 CREATE TABLE "land_area" (
     "country_code" VARCHAR(3),
@@ -38,3 +38,4 @@ CREATE TABLE regions (
 COPY regions 
 FROM 'C:\Program Files\PostgreSQL\16\data\forestation_data\r.csv' 
 DELIMITER ',' CSV HEADER;
+```
